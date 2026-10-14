@@ -1,0 +1,302 @@
+[
+ {
+  "task_id": "tune-00007",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00013",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00014",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00018",
+  "first_rank": 984,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00021",
+  "first_rank": 1170,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00023",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00025",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00033",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00041",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00048",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00053",
+  "first_rank": 2743,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00059",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00060",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00068",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00073",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00075",
+  "first_rank": 185,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00076",
+  "first_rank": 112,
+  "outcome": "overfit"
+ },
+ {
+  "task_id": "tune-00085",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00104",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00106",
+  "first_rank": 18,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00110",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00124",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00134",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00147",
+  "first_rank": 1185,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00152",
+  "first_rank": 17,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00153",
+  "first_rank": 9,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00167",
+  "first_rank": 2607,
+  "outcome": "overfit"
+ },
+ {
+  "task_id": "tune-00175",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00176",
+  "first_rank": 489,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00182",
+  "first_rank": 857,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "tune-00191",
+  "first_rank": 4556,
+  "outcome": "overfit"
+ },
+ {
+  "task_id": "tune-00193",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00221",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00224",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00238",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00248",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00256",
+  "first_rank": 4025,
+  "outcome": "overfit"
+ },
+ {
+  "task_id": "tune-00278",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00322",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "tune-00649",
+  "first_rank": null,
+  "outcome": "unsolved"
+ },
+ {
+  "task_id": "pos-00011",
+  "first_rank": 644,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00016",
+  "first_rank": 1195,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00053",
+  "first_rank": 29,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00054",
+  "first_rank": 227,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00139",
+  "first_rank": 177,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00151",
+  "first_rank": 9,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00153",
+  "first_rank": 1264,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00208",
+  "first_rank": 582,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00221",
+  "first_rank": 792,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00255",
+  "first_rank": 146,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00315",
+  "first_rank": 1007,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00322",
+  "first_rank": 782,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00340",
+  "first_rank": 31,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00354",
+  "first_rank": 425,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00373",
+  "first_rank": 572,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00422",
+  "first_rank": 309,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00437",
+  "first_rank": 68,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00439",
+  "first_rank": 1054,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00442",
+  "first_rank": 1295,
+  "outcome": "verified"
+ },
+ {
+  "task_id": "pos-00460",
+  "first_rank": 1084,
+  "outcome": "verified"
+ }
+]
