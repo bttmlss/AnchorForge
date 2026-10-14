@@ -1,0 +1,51 @@
+{
+  "checks": {
+    "B1_evaluator_unit_tests": {
+      "pass": true,
+      "detail": "0a: 2055 passed, 0 failed"
+    },
+    "B2_generator_diagnostic": {
+      "pass": true,
+      "draws": 1292,
+      "accepted": 60,
+      "distinct_target_pass_rate_observed": 0.7933,
+      "rejections": {
+        "target_invalid": 0,
+        "redundant_pair": 599,
+        "few_distinct_targets": 267,
+        "quota_full": 183
+      },
+      "rejection_rates": {
+        "target_invalid": 0.0,
+        "redundant_pair": 0.4636,
+        "few_distinct_targets": 0.2067,
+        "quota_full": 0.1416
+      },
+      "accepted_failing_validity": 0
+    },
+    "B3_enum_correctness": {
+      "pass": true,
+      "reproduced": "60/60",
+      "L_star_distribution": {
+        "1": 6,
+        "2": 24,
+        "3": 10,
+        "4": 10,
+        "5": 10
+      }
+    },
+    "B4_mutation_applicability": {
+      "pass": true,
+      "rates": {
+        "REPLACE_OP": 1.0,
+        "NUDGE_PARAM": 0.827,
+        "RESAMPLE_PARAM": 0.989,
+        "INSERT": 0.855,
+        "DELETE": 0.8515,
+        "SWAP_ADJACENT": 0.8545
+      },
+      "note": "flag if any type rarely applicable"
+    }
+  },
+  "elapsed_s": 92.9
+}
